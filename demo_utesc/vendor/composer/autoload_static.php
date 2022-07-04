@@ -533,6 +533,8 @@ class ComposerStaticIniteca6e0be9a67e5617161f8d2333bd8c7
         'App\\Providers\\BroadcastServiceProvider' => __DIR__ . '/../..' . '/app/Providers/BroadcastServiceProvider.php',
         'App\\Providers\\EventServiceProvider' => __DIR__ . '/../..' . '/app/Providers/EventServiceProvider.php',
         'App\\Providers\\RouteServiceProvider' => __DIR__ . '/../..' . '/app/Providers/RouteServiceProvider.php',
+        'App\\View\\Components\\Navbar' => __DIR__ . '/../..' . '/app/View/Components/Navbar.php',
+        'App\\View\\Components\\RegistrarUsuario' => __DIR__ . '/../..' . '/app/View/Components/RegistrarUsuario.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Brick\\Math\\BigDecimal' => __DIR__ . '/..' . '/brick/math/src/BigDecimal.php',
         'Brick\\Math\\BigInteger' => __DIR__ . '/..' . '/brick/math/src/BigInteger.php',
