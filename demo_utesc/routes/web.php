@@ -22,3 +22,7 @@ Route::get('/registrar-usuario', function () {
 Route::get('/index', function () {
     return view('index');
 });
+Route::get('/solicitudes',function(){
+    return view('solicitudes');
+});
+
